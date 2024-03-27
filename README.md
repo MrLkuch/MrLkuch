@@ -4,8 +4,7 @@
 A young developper interested about the web and eager to learn more.
 
   - 🌱 Started learning development in 2018 at IUT de <b>Reims Châlon Charleville</b>
-  - 🎓 Now studying at <b>Simplon</b> <img src="https://www.est-            ensemble.fr/sites/default/files/styles/large_slider/public/logo_simplon_simple_red1.png?itok=J7wPlX1N" width="15"/>
-
+  - 🎓 Now studying at <b>Simplon</b> 
 ### Languages and Tools:
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
