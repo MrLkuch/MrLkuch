@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas 👋
 <hr>
 
-A young developper from france, interested about the web and eager to learn more.
+A young developper from france, interested about the web and eager to learn more.<br>
 Aiming to become an Application Conceptor and Designer.
 
   - 🌱 Started learning development in 2018 at IUT de <b>Reims Châlon Charleville</b>
